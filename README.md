@@ -1,6 +1,6 @@
 # Installment_Auto_
 
-A lite framework to run Installment Plan REST api automation scripts created by Postman.
+A lite framework to run Installment Plan REST api automation scripts created in Postman collections.
 
 ## Getting Started
 
